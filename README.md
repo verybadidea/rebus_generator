@@ -1,2 +1,3 @@
-# rebus_generator
-Rebus generator for freebasic
+# Rebus generator
+A rebus generator for freebasic
+Images by emojipedia / google
